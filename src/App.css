@@ -1,0 +1,39 @@
+h1{
+  text-align: center;
+}
+/* .d2{
+  border: 2px solid black;
+  height: 400px;
+  width: 400px;
+  margin-left: 430px ;
+  padding: 40px;
+} */
+
+body{
+  text-align: center;
+  font-size: larger;
+}
+input{
+  width: 270px;
+  padding: 5px;
+}
+button{
+  margin-left: 5px;
+  padding: 5px;
+}
+
+.qrcodecontainer{
+  display: grid;
+  justify-content: center;
+}
+
+a{
+  color: green;
+  margin-top: 8px;
+  text-decoration: none;
+}
+
+img{
+  border-style: groove;
+  margin-top: 17px;
+}
